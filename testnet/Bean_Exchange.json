@@ -1,0 +1,21 @@
+{
+    "name": "Bean Exchange",
+    "description": "Bean Exchange is a gamified decentralized spot & perpetual exchange natively built on Monad Network.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Perpetuals / Derivatives"
+    ],
+    "addresses": {
+        "ExchangeRouter1": "0x1c63420A8388532864347933dE1eD61a613054FF",
+        "ExchangeRouter2": "0xCa810D095e90Daae6e867c19DF6D9A8C56db2c89",
+        "DepositVault": "0x184B615Ff6929F5A1F4E20E60bB0c24355fE7216",
+        "OrderVault": "0x41EB0D6dcF71c21FB54Be7408e554daC895b2b62",
+        "WithdrawalVault": "0xE253d996d1703c4D319c5d2055d8914bF77A8Ab7"
+    },
+    "links": {
+        "project": "https://bean.exchange/",
+        "twitter": "https://x.com/Bean_DEX",
+        "docs": "https://docs.bean.exchange/"
+    }
+}

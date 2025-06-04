@@ -1,0 +1,12 @@
+{
+    "name": "Cycle Network",
+    "description": "Cycle Network offers bridgeless liquidity abstraction through verifiable state aggregation, supporting all BTC and EVM networks",
+    "live": false,
+    "categories": ["DeFi::Cross Chain"],
+    "addresses": {},
+    "links": {
+        "project": "https://www.cyclenetwork.io/",
+        "twitter": "https://x.com/cyclenetwork_GO",
+        "docs": "https://cycle-network.gitbook.io/cycle-network-docs/welcome/genesis-of-cycle-network"
+    }
+}

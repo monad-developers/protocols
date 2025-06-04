@@ -1,0 +1,15 @@
+{
+    "name": "FastLane",
+    "description": "FastLane is an MEV protocol for validators + apps with an integrated 4337 bundler, an on-chain task scheduler, and the first holistic LST.",
+    "live": true,
+    "categories": ["DeFi::MEV"],
+    "addresses": {
+        "AddressHub": "0xD72D821dA82964c0546a5501347a3959808E072f"
+    },
+    "links": {
+        "project": "https://www.shmonad.xyz/",
+        "twitter": "https://x.com/0xFastLane",
+        "github": "https://github.com/FastLane-Labs",
+        "docs": "https://www.shmonad.xyz"
+    }
+}

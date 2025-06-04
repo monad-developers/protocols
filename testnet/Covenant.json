@@ -1,0 +1,14 @@
+{
+    "name": "Covenant",
+    "description": "Lever up your favorite token, or earn yield, through liquid, tradeable debt markets. ",
+    "live": true,
+    "categories": ["DeFi::Lending"],
+    "addresses": {
+        "default": "0x844ecB5adc688BEA7Eee4b564BB26CF9D4F820B0"
+    },
+    "links": {
+        "project": "https://covenant.finance",
+        "twitter": "https://x.com/covenantFi",
+        "docs": "docs.covenant.finance"
+    }
+}

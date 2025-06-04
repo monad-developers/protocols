@@ -1,0 +1,14 @@
+{
+    "name": "OctoSwap",
+    "description": "OctoSwap offers lightning-fast token swaps and capital-efficient liquidity pools with a user friendly interface.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "factory": "0xe26dd94f67Ca3615fcaF6062750147F37Df84F7a",
+        "router": "0xb6091233aAcACbA45225a2B2121BBaC807aF4255"
+    },
+    "links": {
+        "project": "https://octo.exchange",
+        "twitter": "https://x.com/octoswapdex"
+    }
+}

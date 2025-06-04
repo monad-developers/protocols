@@ -1,0 +1,14 @@
+{
+    "name": "Flap",
+    "description": "The premier memecoin launchpad for trench warriors on Monad.",
+    "live": true,
+    "categories": ["DeFi::Launchpads"],
+    "addresses": {
+        "default": "0x4267F317adee7C6478a5EE92985c2BD5D855E274"
+    },
+    "links": {
+        "project": "monad.flap.sh",
+        "twitter": "https://x.com/flapdotsh",
+        "docs": "https://docs.flap.sh"
+    }
+}

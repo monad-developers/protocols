@@ -1,0 +1,16 @@
+{
+    "name": "XL",
+    "description": "XL is a memecoin launchpad enabling easy, low-cost token creation across various networks.",
+    "live": true,
+    "categories": [
+        "DeFi::Launchpads",
+        "DeFi::Memecoin"
+    ],
+    "addresses": {
+        "default": "0x82053e9d87e06BE2040bbB2ad3e32F1a9A41Dace"
+    },
+    "links": {
+        "project": "xlmeme.com",
+        "twitter": "https://x.com/XLmemeCom"
+    }
+}

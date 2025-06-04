@@ -1,0 +1,11 @@
+{
+    "name": "own.fun",
+    "description": "The first AI-powered token discovery and social network platform, supercharged—with a swipe-based interface.",
+    "live": true,
+    "categories": ["DeFi::Trading Interfaces"],
+    "addresses": {},
+    "links": {
+        "project": "https://monad.own.fun/",
+        "twitter": "https://x.com/OwnDotFun"
+    }
+}

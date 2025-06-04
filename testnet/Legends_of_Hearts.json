@@ -1,0 +1,11 @@
+{
+    "name": "Legends of Hearts",
+    "description": "Legends of Hearts (LOH) is a multi-player family-friendly Web3 game. Team up, convert emotions, & share NFT gifts with loved ones.",
+    "live": false,
+    "categories": ["Gaming::Games"],
+    "addresses": {},
+    "links": {
+        "project": "https://legendsofhearts.com",
+        "twitter": "https://x.com/LOH_Online"
+    }
+}

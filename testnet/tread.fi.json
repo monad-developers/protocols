@@ -1,0 +1,21 @@
+{
+    "name": "tread.fi",
+    "description": "Exchange aggregator and algorithmic trading platform, standardizing and elevating institutional and retail trading experiences.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Access": "0x035468af8a489f46e09092b9b27a73c94227f1e8",
+        "Attestations": "0x604c6a7465e5c50ea220e4c72d86f8951e29f8e5",
+        "AccessProxy": "0x0b903f0a4b53d6f8dd6c9042b748eff90affa53c",
+        "AttestationsProxy": "0x7959445debb193f2a5ca79bd879ce3fa56607fb7",
+        "MockErc20": "0xa1a2f38b8fdb389fc669f8079731080c67797749",
+        "Vault": "0x39b97d631f05f5715b83f08fdbf39a445fd78ff2",
+        "VaultProxy": "0xd1118e32bf31d2b0f4981d87a2c0fd4ff2978597"
+    },
+    "links": {
+        "project": "www.tread.fi",
+        "twitter": "https://x.com/tread_fi",
+        "github": "https://github.com/tread-labs-public/taas-api-client",
+        "docs": "https://tread-labs.gitbook.io/api-docs"
+    }
+}

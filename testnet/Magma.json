@@ -1,0 +1,16 @@
+{
+    "name": "Magma",
+    "description": "Magma is a Liquid Staking platform built on Monad",
+    "live": true,
+    "categories": ["DeFi::Liquid Staking"],
+    "addresses": {
+        "Admin": "0x83bc958F2583b8a2dFBEaf7491d4Ac1268C7f2f7",
+        "RoleManager": "0x2c59DA213e35D92D2bDBd3E1A4e19c151350BddE",
+        "StakeManager": "0x69d66356FcF62d8eAb1FB2d86f3374508D611b3d"
+    },
+    "links": {
+        "project": "https://www.magmastaking.xyz/",
+        "twitter": "https://x.com/MagmaStaking",
+        "docs": "https://docs.hydrogenlabs.xyz/magma"
+    }
+}

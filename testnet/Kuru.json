@@ -1,0 +1,20 @@
+{
+    "name": "Kuru",
+    "description": "Find and trade your coins on a fully on-chain CLOB. Built for traders, powered by Monad.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Router": "0xc816865f172d640d93712C68a7E1F83F3fA63235",
+        "MarginAccount": "0x4B186949F31FCA0aD08497Df9169a6bEbF0e26ef",
+        "KuruForwarder": "0x350678D87BAa7f513B262B7273ad8Ccec6FF0f78",
+        "MONUSDC": "0xd8336cB07D4BE511cCaF06B799851E1A80F98c71",
+        "KuruDeployer": "0x67a4e43C7Ce69e24d495A39c43489BC7070f009B",
+        "KuruUtils": "0x0Ec4760f18c70BeACDCDB2a12edde02382CF1f66"
+    },
+    "links": {
+        "project": "https://kuru.io/",
+        "twitter": "https://x.com/KuruExchange",
+        "github": "https://github.com/Kuru-Labs",
+        "docs": "https://docs.kuru.io/"
+    }
+}

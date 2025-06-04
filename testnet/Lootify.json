@@ -1,0 +1,13 @@
+{
+    "name": "Lootify",
+    "description": "Lootify is a lootbox platform on Monad, offering NFTs, gaming assets, and tokenized trading cards as rewards",
+    "live": true,
+    "categories": ["NFT::Infrastructure"],
+    "addresses": {
+        "default": "0xe5d182811315fcb4f402fb5ae97b54a06877e4f1"
+    },
+    "links": {
+        "project": "https://beta.lootify.xyz/",
+        "twitter": "https://x.com/Lootify_xyz"
+    }
+}

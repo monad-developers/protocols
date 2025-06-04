@@ -1,0 +1,22 @@
+{
+    "name": "NitroFinance",
+    "description": "NitroFinance: An AMM on steroids—fusing DEX and Money Market into one pool to maximize efficiency and simplify liquidity management.",
+    "live": true,
+    "categories": [
+        "DeFi::DEX",
+        "DeFi::Lending"
+    ],
+    "addresses": {
+        "NitroFactory": "0xc218d4dd36C9d865a6Da0913b2aa517fa5629dC7",
+        "NitroDebtManager": "0x2470D9F5CCf95cA782D43b9e61B9e54BDa1B440F",
+        "NitroPoint": "0xDAdd5aa38952e7bDB0113Df8500f27dFFAd59BcB",
+        "NitroAllocation": "0x6Be402B06D4FE8CDE9B698a50853a66Ea260d009",
+        "NitroRouter": "0xBa0fACfB8fd4971BE4765Eb336136bcf7e524ba2"
+    },
+    "links": {
+        "project": "https://nitrofinance.xyz/",
+        "twitter": "https://x.com/NitroFinance",
+        "github": "https://github.com/Nitro-Defi",
+        "docs": "https://nitro-finance.gitbook.io/ftl"
+    }
+}

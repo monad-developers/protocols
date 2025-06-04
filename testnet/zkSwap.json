@@ -1,0 +1,13 @@
+{
+    "name": "zkSwap",
+    "description": "The First Swap2Earn Platform",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Unknown1": "0x3505001F8141cb99fC28E58Cf1843309cFFaC868",
+        "Unknown2": "0x74a116B1Bb7894D3cFbC4B1a12F59ea95f3FFf81"
+    },
+    "links": {
+        "project": "https://www.zkswap.finance/"
+    }
+}

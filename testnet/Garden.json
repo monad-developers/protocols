@@ -1,0 +1,15 @@
+{
+    "name": "Garden",
+    "description": "Garden is transforming Bitcoin interoperability with its next-gen bridge. It is built by the renBTC team using an intents based architecture with trustless settlement, enabling cross-chain Bitcoin swaps in as little as 30 seconds with zero custody risk.\n\nIn its first year, Garden processed over $1 billion in volume—proving the market’s demand for seamless, cost-effective Bitcoin bridging solutions.\n\nNow, Garden is unlocking a new era of interoperability—supporting non-likewise assets, external liquidity, and a wallet-friendly API—to onboard the next wave of partners and users.",
+    "live": true,
+    "categories": ["DeFi::Cross Chain"],
+    "addresses": {
+        "Multicall": "0x13DCec0762EcC5E666c207ab44Dc768e5e33070F"
+    },
+    "links": {
+        "project": "https://garden.finance/",
+        "twitter": "https://x.com/garden_finance",
+        "github": "https://github.com/catalogfi/garden.js",
+        "docs": "https://docs.garden.finance/developers/overview"
+    }
+}

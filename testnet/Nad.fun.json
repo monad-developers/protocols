@@ -1,0 +1,14 @@
+{
+    "name": "Nad.fun",
+    "description": "Nad.fun is a Social Memecoin Playground powered by Monad, enabling seamless token launches and trading.",
+    "live": true,
+    "categories": ["DeFi::Launchpads"],
+    "addresses": {
+        "default": "0x822EB1ADD41cf87C3F178100596cf24c9a6442f6"
+    },
+    "links": {
+        "project": "https://testnet.nad.fun",
+        "twitter": "https://x.com/naddotfun",
+        "github": "https://github.com/Naddotfun"
+    }
+}

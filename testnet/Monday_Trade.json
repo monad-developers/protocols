@@ -1,0 +1,14 @@
+{
+    "name": "Monday Trade",
+    "description": "Monday Trade is Monad’s native spot DEX combining the precision of a fully on-chain order book with the simplicity of AMMs.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "Factory": "0x749117280Ae615BEacD54Eea4E0d580d5c895538",
+        "Config": "0x8A7943AA35E08faE9e9778b84aBd0B158E02b671"
+    },
+    "links": {
+        "project": "https://monday.trade/",
+        "twitter": "https://x.com/MondayTrade_"
+    }
+}

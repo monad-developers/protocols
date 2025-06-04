@@ -1,0 +1,26 @@
+{
+    "name": "PancakeSwap",
+    "description": "Trade and earn crypto on the all-in-one decentralized exchange. Enjoy low fees, high liquidity, and a user-friendly interface.",
+    "live": true,
+    "categories": ["DeFi::DEX"],
+    "addresses": {
+        "PancakeFactory": "0xCE3478A9E0167a6Bc5716DC39DbbbfAc38F27623",
+        "PancakeRouter": "0xCba6b9A951749B8735C603e7fFC5151849248772",
+        "PancakeSwapSmartRouter": "0x1fA1618AE2F5b3EcC73692974a5E28926553c032",
+        "PancakeV3PoolDeployer": "0xD34052d665891976eE71E097EaAF03Df51e9e3d5",
+        "PancakeV3Factory": "0xfcF38f326CA709b0B04B2215Dbc969fC622775F7",
+        "SwapRouter": "0x754A91555a8dd5037315ABFd3702ED49d92887b7",
+        "NonFungiblePositionManager": "0x3F8A06622086E720DF1eea35DbCA7c0eC49AE7ab",
+        "PancakeInterfaceMulticall": "0xb297278a5581c99663e4f85a950A67064DC2317D",
+        "SmartRouter": "0x324B984055f9b0C42c9f6be51A8F5fBF9dd4B7B6",
+        "MixedRouteQuoterV1": "0xA540de8faAE57Ae43d8506CffA75B746820CbDE9",
+        "QuoterV2": "0x7920A0deBEDc8fDa9F3Ff094F5eC9881329d7827",
+        "TokenValidator": "0x4325E8d969Cf9170C41fb2f34Cc86bC511e89664"
+    },
+    "links": {
+        "project": "https://pancakeswap.finance/?chain=monadTestnet",
+        "twitter": "https://twitter.com/PancakeSwap",
+        "github": "https://github.com/pancakeswap/",
+        "docs": "https://developer.pancakeswap.finance/"
+    }
+}

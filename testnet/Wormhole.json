@@ -1,0 +1,16 @@
+{
+    "name": "Wormhole",
+    "description": "Wormhole is a generic message-passing protocol designed to enable secure and efficient communication between different blockchains. ",
+    "live": true,
+    "categories": ["Infra::Interoperability"],
+    "addresses": {
+        "Core": "0xBB73cB66C26740F31d1FabDC6b7A46a038A300dd",
+        "Relayer": "0x362fca37E45fe1096b42021b543f462D49a5C8df"
+    },
+    "links": {
+        "project": "https://wormhole.com/",
+        "twitter": "https://x.com/wormhole",
+        "github": "https://github.com/wormhole-foundation",
+        "docs": "https://wormhole.com/docs/"
+    }
+}
