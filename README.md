@@ -168,6 +168,7 @@ furthest match:
   * Governance::Risk Management
   * Governance::Other
 - Infra
+  * Infra::AA
   * Infra::Automation
   * Infra::Analytics
   * Infra::Developer Tooling
@@ -181,6 +182,7 @@ furthest match:
   * Infra::Other
   * Infra::ZK
   * Infra::RaaS (Rollup as a Service)
+  * Infra::WaaS
   * Infra::Wallet
   * Infra::Other
 - NFT
