@@ -166,12 +166,11 @@ Generally protocols will choose one category, however more than one is permissib
   * Infra::Gaming
   * Infra::Oracle
   * Infra::Privacy / Encryption
-  * Infra::RPC
-  * Infra::Other
-  * Infra::ZK
   * Infra::RaaS (Rollup as a Service)
+  * Infra::RPC
   * Infra::WaaS
   * Infra::Wallet
+  * Infra::ZK
   * Infra::Other
 - NFT
   * NFT::Collection
