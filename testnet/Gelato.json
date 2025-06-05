@@ -3,6 +3,7 @@
     "description": "Gelato Web3 Services bring enhanced UX to Monad's high-speed L1, enabling devs build automated apps with gasless transactions & VRF",
     "live": true,
     "categories": [
+        "Infra::AA",
         "Infra::Automation",
         "Infra::RaaS (Rollup as a Service)"
     ],
