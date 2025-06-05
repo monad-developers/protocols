@@ -1,16 +1,12 @@
 # protocols
-This repository maintains details for each protocol on Monad testnet (and later mainnet).  We use the information
-in this repository to track:
+This repository maintains details for each protocol on Monad testnet (and later mainnet), to make it easier to interpret ecosystem activity.
 
-1. health of ecosystem
-2. top users
-3. bots & sybil
-4. assist protocols in analyzing their user base and activity
-
-We request that each protocol add or adjust their corresponding metadata file as details change (for example, a 
+Representatives of each protocol should add or adjust their corresponding metadata file as details change (for example, a 
 change or addition of contract addresses).
 
 ## Form of entries
+Each protocol has its own json file in `testnet/PROTOCOL.json`.
+
 The key fields are:
 - `name`: Name of protocol
 - `description`: Description of protocol
@@ -19,13 +15,13 @@ The key fields are:
   * see the categorization section below to see available categories
   * one category/sub-category pair is enough in most cases, however some protocols are associated with multiple categories.
 - `addresses`: A named mapping between contract concept and address.
-- `links`: Any links you are willing to provide
+- `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and `docs`).
 
 Here is an example of a file describing a protocol:
 ```json
 {
     "name": "Protocol Name",
-    "description": "Protocol Description",
+    "description": "Protocol description",
     "categories": [
         "Gaming::Games",
         "Gaming::Mobile-First"
@@ -34,17 +30,12 @@ Here is an example of a file describing a protocol:
         "Data": "0xd9f184B2086d508f94e1aefe11dFABbcD810aeF9",
         "Avatar": "0x78925Ce372c918011Eb2966264b668B2F256224C",
         "Prop": "0x138b7CEaBC3D37a317B837EcF74320432a3A47A2",
-        "Weapon": "0x865640F8e435D394519581afA81Ba7135DF668d2",
-        ...
+        "Weapon": "0x865640F8e435D394519581afA81Ba7135DF668d2"
     },
     "links": {
         "project": "https://www.foo.ai/",
         "twitter": "https://x.com/bar",
         "github": "https://github.com/foo",
-        "discord": "https://discord.com/invite/ABCD",
-        "telegram": "https://t.me/foo",
-        "contact": "https://t.me/name",
-        "email": "bar@foo.ai",
         "docs": "https://docs.foo.ai/"
     }
 }
@@ -64,7 +55,7 @@ Once you have made the desired changes, push to the repository:
 git push origin your-protocol/your-branch-name
 ```
 
-### How to create pull request
+### Create a pull request
 1. Navigate to your branch on GitHub
    * You'll usually see a banner suggesting to create a PR for your recently pushed branch
 2. Click "Compare & pull request" or go to the "Pull requests" tab and click "New pull request"
@@ -74,22 +65,19 @@ git push origin your-protocol/your-branch-name
    * check below for the list of Monad Foundation reviewers 
 6. Click "Create pull request"
 
-Note that there are `GitHub Workflow rules` that run to check whether the changed:
-- JSON is valid and 
-- JSON has the required fields.
+Note that there are `GitHub Workflow rules` that verify that:
+- JSON is valid
+- required fields are populated
 - categories are valid
 - addresses have a valid format
 
-If your submission is not passing, please make the required changes.
-
-We will review the submission and merge it to main.
+Please ensure your submission is passing before requesting a review.
 
 
 ## Categories
-Here is a list of categories and sub-categories.  For the `category` field, provide a list of 
-one or more `category::subcategory`'s.  Generally protocols will choose one category, however
-if more than one is appropriate, order the list of categories chosen from closest match to 
-furthest match:
+The list of choices for the `category` field appears in `categories.json` and is also listed below. For mental clarity, categories are organized by top-level sectors.
+
+Generally protocols will choose one category, however more than one is permissible, in which case list the the primary category first.
 
 - AI
   * AI::Agent Launchpad
