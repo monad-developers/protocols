@@ -20,7 +20,10 @@
         "ZFStableSwapTwoPoolDeployer": "0x2e11640eE1368F2cD90C36607760a274a30094F5",
         "ZFStableSwapThreePoolDeployer": "0x3eC4879991d51338d2A2D037f4DaD439570Cf971",
         "ZFStableSwapTwoPoolInfo": "0xAA218216b7DB7b1F51a6d3a615D9470c86E29219",
-        "ZFStableSwapThreePoolInfo": "0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD"
+        "ZFStableSwapThreePoolInfo": "0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD",
+        "GreeterFactory": "0x987B30CBe19F0a4461731C32bBe4a22271ec0D57",
+        "Moon": "0x4aa50E8208095d9594d18E8e3008ABB811125dCE",
+        "ZFNFT": "0x4f79d211d0536fFe453203229C6AD32aD25681e8"
     },
     "links": {
         "project": "https://www.zkswap.finance/",
