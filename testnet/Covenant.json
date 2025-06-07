@@ -6,7 +6,7 @@
         "DeFi::Lending",
         "DeFi::DEX",
         "DeFi::Stablecoin",
-        "DeFi::Yield",
+        "DeFi::Yield"
     ],
     "addresses": {
         "default": "0x1d30392503203dd42f5516B32dACA6b2e11F71d7"
