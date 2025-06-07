@@ -8,10 +8,11 @@
     ],
     "addresses": {
         "NitroFactory": "0xc218d4dd36C9d865a6Da0913b2aa517fa5629dC7",
-        "NitroDebtManager": "0x2470D9F5CCf95cA782D43b9e61B9e54BDa1B440F",
-        "NitroPoint": "0xDAdd5aa38952e7bDB0113Df8500f27dFFAd59BcB",
+        "NitroDebtManager": "0x91E667106b9F4cDd11BE9EDbdBf999400f2EfF01",
+        "NitroPoint": "0x8f74182C65EA21114483a0fE35691c7e59AfA93f",
         "NitroAllocation": "0x6Be402B06D4FE8CDE9B698a50853a66Ea260d009",
-        "NitroRouter": "0xBa0fACfB8fd4971BE4765Eb336136bcf7e524ba2"
+        "NitroRouter": "0xFF5DDCF0774006C9B263858F1ad11962bAaaE41C",
+        "NitroGame" :  "0xCe896Cff1849B2b553Bc591f2c474566f8D81730"
     },
     "links": {
         "project": "https://nitrofinance.xyz/",
