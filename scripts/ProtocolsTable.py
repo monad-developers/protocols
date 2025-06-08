@@ -6,6 +6,7 @@ This script collects all Protocol files in a directory and generates a CSV file
 for upload to a DB
 """
 
+#import libraries
 import argparse
 import csv
 import json
