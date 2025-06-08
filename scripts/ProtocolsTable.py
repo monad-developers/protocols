@@ -15,7 +15,7 @@ import os
 from pathlib import Path
 from typing import List, Dict, Any
 
-#Define a function to parse JSON protocol files
+# Define a function to parse JSON protocol files
 def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
     """
     Parse a single JSON file and extract the required fields.
@@ -60,7 +60,7 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
         print(f"Error processing {file_path}: {e}")
         return []
 
-#Define a function to collect protocol files in a given directory
+# Define a function to collect protocol files in a given directory
 def collect_protocol_files(directory: str) -> List[str]:
     """
     Collect all protocol files in the specified directory.
@@ -74,7 +74,7 @@ def collect_protocol_files(directory: str) -> List[str]:
     json_files = list(directory_path.glob('*.json'))
     return [str(f) for f in json_files]
 
-
+# Define a function to write data to a CSV files
 def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
     """
     Write the extracted data to a CSV file.
