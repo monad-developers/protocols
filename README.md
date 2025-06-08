@@ -12,7 +12,7 @@ The key fields are:
 - `description`: Description of protocol.
 - `categories`: Categorization of the protocol as list of category::sub-category pairs, in order of closest, most general, match to
   furthest matching categories.
-  * see the categorization section below to see available categories
+  * see the categorization section below to see available categories.
   * one category/sub-category pair is enough in most cases, however some protocols are associated with multiple categories.
 - `addresses`: A named mapping between contract concept and address.
 - `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and `docs`).
