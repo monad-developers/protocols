@@ -8,8 +8,8 @@ change or addition of contract addresses).
 Each protocol has its own json file in `testnet/PROTOCOL.json`.
 
 The key fields are:
-- `name`: Name of protocol
-- `description`: Description of protocol
+- `name`: Name of protocol.
+- `description`: Description of protocol.
 - `categories`: Categorization of the protocol as list of category::sub-category pairs, in order of closest, most general, match to
   furthest matching categories.
   * see the categorization section below to see available categories
