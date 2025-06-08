@@ -1,5 +1,5 @@
-# protocols
-This repository maintains details for each protocol on Monad testnet (and later mainnet), to make it easier to interpret ecosystem activity.
+# Protocols
+This repository maintains details for each protocol on the Monad testnet (and later on mainnet), to make it easier to interpret ecosystem activities.
 
 Representatives of each protocol should add or adjust their corresponding metadata file as details change (for example, a 
 change or addition of contract addresses).
@@ -8,11 +8,11 @@ change or addition of contract addresses).
 Each protocol has its own json file in `testnet/PROTOCOL.json`.
 
 The key fields are:
-- `name`: Name of protocol
-- `description`: Description of protocol
+- `name`: Name of protocol.
+- `description`: Description of protocol.
 - `categories`: Categorization of the protocol as list of category::sub-category pairs, in order of closest, most general, match to
   furthest matching categories.
-  * see the categorization section below to see available categories
+  * see the categorization section below to see available categories.
   * one category/sub-category pair is enough in most cases, however some protocols are associated with multiple categories.
 - `addresses`: A named mapping between contract concept and address.
 - `links`: Any links you are willing to provide (typically `project`, `twitter`, `github`, and `docs`).
