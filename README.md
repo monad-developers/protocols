@@ -1,5 +1,5 @@
-# protocols
-This repository maintains details for each protocol on Monad testnet (and later mainnet), to make it easier to interpret ecosystem activity.
+# Protocols
+This repository maintains details for each protocol on the Monad testnet (and later mainnet), to make it easier to interpret ecosystem activity.
 
 Representatives of each protocol should add or adjust their corresponding metadata file as details change (for example, a 
 change or addition of contract addresses).
