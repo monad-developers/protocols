@@ -77,7 +77,7 @@ Please ensure your submission is passing before requesting a review.
 ## Categories
 The list of choices for the `category` field appears in `categories.json` and is also listed below. For mental clarity, categories are organized by top-level sectors.
 
-Generally protocols will choose one category, however more than one is permissible, in which case list the the primary category first.
+Generally protocols will choose one category, however more than one is permissible, in which case list the primary category first.
 
 - AI
   * AI::Agent Launchpad
