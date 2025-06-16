@@ -173,7 +173,7 @@ Generally protocols will choose one category, however more than one is permissib
   * Infra::ZK
   * Infra::Other
 - NFT
-  * NFT::Collection
+  * NFT::Collections
   * NFT::Infrastructure
   * NFT::Interoperability
   * NFT::Marketplace
