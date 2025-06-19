@@ -3,8 +3,7 @@
   "description": "Lendhub is a decentralized peer-2-peer NFT powered collateral lending protocol on Monad testnet.",
   "categories": ["DeFi::Lending", "NFT::NFTFi"],
   "addresses": {
-    "LendhubContract": "0x2A0d4970cd6958dFb0d88F6536240277CC7c3a95",
-    "LendingToken": "0x760AfE86e5de5fa0Ee542fc7B7B713e1c5425701"
+    "LendhubContract": "0x2A0d4970cd6958dFb0d88F6536240277CC7c3a95"
   },
   "links": {
     "project": "https://lendhub.xyz",
