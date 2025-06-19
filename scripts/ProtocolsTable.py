@@ -32,12 +32,14 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
 
         # Get first category or empty string if no categories
         categories = data.get('categories', [])
-        if categories:
-            first_category = categories[0]
-            parts = first_category.split('::')
-            type, subtype = parts[0], parts[1]
-        else:
+        if not categories:
             raise Exception(f"missing category for {name}")
+        first_category = categories[0]
+        parts = first_category.split('::')
+        if len(parts) < 2:
+            raise Exception(f"invalid category format '{first_category}' in {name}, expected 'type::subtype'")
+
+        type, subtype = parts[0], parts[1]
 
         # Get addresses
         addresses = data.get('addresses', {})
