@@ -58,7 +58,7 @@ jobs:
         try {
           const categoriesData = JSON.parse(fs.readFileSync('./categories.json', 'utf8'));
           CATEGORIES = categoriesData.categories;
-          console.log(`📋 Loaded ${CATEGORIES.length} valid categories from .github/categories.json`);
+          console.log(`📋 Loaded ${CATEGORIES.length} valid categories from categories.json`);
         } catch (error) {
           console.log(`❌ Error loading categories file: ${error.message}`);
           process.exit(1);
