@@ -121,6 +121,13 @@ jobs:
                     if (!isValidAddress) {
                       invalidAddresses.push(`${key}: "${address}"`);
                     }
+                    
+                    // Check if the address is in lowercase
+                    if (typeof address === 'string' && address !== address.toLowerCase()) {
+                      console.log(`❌ ${file} contains address not in lowercase: ${key}: "${address}"`);
+                      console.log(`   Address should be: "${address.toLowerCase()}"`);
+                      hasErrors = true;
+                    }
                   }
                   
                   if (invalidAddresses.length > 0) {
