@@ -4,8 +4,9 @@
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
-        "Router": "0xefe2f96DF94Bd1337E79bdF3D524cEc44b10B45C",
-        "Factory": "0xC7E19A8Ccd223e7DEF92f4Dd620030f106409CF0",
+        "OldRouter": "0xefe2f96DF94Bd1337E79bdF3D524cEc44b10B45C",
+        "OldFactory": "0xC7E19A8Ccd223e7DEF92f4Dd620030f106409CF0",
+        "RouterFactory": "0x4e77071D619Aa164cA6427547aefA41AC51BE7A0",
         "DataHelper": "0xF6759341d82bB4Fc10e89E43c83568688Cada58f"
     },
     "links": {
