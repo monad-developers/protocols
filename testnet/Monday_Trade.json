@@ -4,8 +4,12 @@
     "live": true,
     "categories": ["DeFi::DEX"],
     "addresses": {
-        "Factory": "0x749117280Ae615BEacD54Eea4E0d580d5c895538",
-        "Config": "0x8A7943AA35E08faE9e9778b84aBd0B158E02b671"
+        "Aggregator": "0xEf8DD29d887EcD977064Ce169366C95d53926B13",
+        "NFTPositionManager": "0x92dC89AD1f6136A474F9e035ebc7DB2009717cef",
+        "QuoterV2": "0x9C6d653C95d3bbfceeC215B5f4Fb5297B80B47B4",
+        "SwapRouter": "0x41D0E599a911aD3F0A8B2bE5Fde79a4fe6B38b92",
+        "SpotFactory": "0xab1235b461C5F80af4319746112A710cf2F22a79",
+        "SpotConfig": "0xFbe668B134D7297642115B6c625a566f8B76865E"
     },
     "links": {
         "project": "https://monday.trade/",
