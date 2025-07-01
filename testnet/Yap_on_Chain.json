@@ -1,6 +1,6 @@
 {
     "name": "Yap on Chain",
-    "description": "Yap on Chain is a hub for interaction with games, deplloy of contracts and tokens. Soon, an NFT lending app will be added.",
+    "description": "Yap on Chain is a hub for interaction with games, deploy of contracts and tokens. Soon, an NFT lending app will be added.",
     "live": true,
     "categories": ["Gaming::Infrastructure"],
     "addresses": {
