@@ -12,6 +12,7 @@
     },
     "links": {
         "project": "https://www.diffuse.fi/",
-        "twitter": "https://x.com/DiffuseFi"
+        "twitter": "https://x.com/DiffuseFi",
+        "docs": "https://diffusefi.gitbook.io/docs"
     }
 }
