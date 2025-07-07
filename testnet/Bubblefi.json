@@ -13,6 +13,7 @@
     "links": {
         "project": "https://bubblefi.xyz",
         "twitter": "https://x.com/Bubblefi_xyz",
-        "github": "https://github.com/Bubble-Finance"
+        "github": "https://github.com/Bubble-Finance",
+        "docs": "https://bubblefi.gitbook.io/bubblefi"
     }
 }
