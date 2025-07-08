@@ -10,7 +10,8 @@
         "GameProxy": "0x6F2F62c374f798EEd3Ad3278853910Beb0Dd983C"
     },
     "links": {
-        "project": "accountable.capital",
-        "twitter": "https://x.com/AccountableData"
+        "project": "https://www.accountable.capital",
+        "twitter": "https://x.com/AccountableData",
+        "docs": "https://docs.accountable.capital"
     }
 }
