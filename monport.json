@@ -1,0 +1,11 @@
+{
+  "name": "Monport",
+  "website": "https://farcaster.xyz/miniapps/hmwIYVBTwm5z/monport",
+  "description": "A Farcaster miniapp on Monad that allows users to mint a unique NFT (\"WelcomeMonad\") and perform token swaps via integrated protocols like KuruSwap.",
+  "category": "nft",
+  "contracts": [
+    "0x40649af9dEE8bDB94Dc21BA2175AE8f5181f14AE"
+  ],
+  "twitter": "https://x.com/Aren_ser",
+  "github": "https://github.com/Aren1414"
+}
