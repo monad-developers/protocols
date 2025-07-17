@@ -8,6 +8,7 @@
     },
     "links": {
         "project": "https://lootgo.app",
-        "twitter": "https://x.com/lootgo_official"
+        "twitter": "https://x.com/lootgo_official",
+        "docs": "https://lootgo.gitbook.io/lootgo"
     }
 }
