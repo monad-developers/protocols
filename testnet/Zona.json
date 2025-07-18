@@ -10,6 +10,7 @@
     "links": {
         "project": "https://www.zona.finance/",
         "twitter": "https://x.com/zona_io",
-        "github": "https://github.com/zona-hk"
+        "github": "https://github.com/zona-hk",
+        "docs": "https://zona.gitbook.io/zona-documentation"
     }
 }
