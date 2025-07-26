@@ -1,0 +1,12 @@
+{
+  "name": "DragonForge",
+  "description": "🐉 DragonForge is a unique decentralized application (DApp) that allows users to mint NFTs — special NFTs infused with the spirit of legendary dragons. 🔥",
+  "categories": ["NFT::Infrastructure"],
+  "addresses": {
+    "Main": "0x98E5685F962c8C00d9d1c038dedc1DD4245Bc53C"
+  },
+  "links": {
+    "project": "https://charizard-monad-nft.netlify.app/",
+    "twitter": "https://x.com/tiacanh"
+  }
+}
