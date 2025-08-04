@@ -11,6 +11,7 @@
     "links": {
         "project": "https://thevapelabs.io/",
         "twitter": "https://x.com/thevapelabs",
-        "github": "https://github.com/thevapelabs-io/vape-be"
+        "github": "https://github.com/thevapelabs-io/vape-be",
+        "docs": "https://thevapelabs.gitbook.io/docs"
     }
 }
