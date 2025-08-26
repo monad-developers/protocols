@@ -27,7 +27,8 @@
     "ERC20Template": "0x002e13268edf8b3680bbd7b1b3e9e59740b9b008"
   },
   "links": {
-    "github": "https://github.com/your-username/picule-protocol",
-    "docs": "https://github.com/your-username/picule-protocol/tree/main/docs"
+    "project": "https://picule.xyz",
+    "github": "https://github.com/Vantana1995/picule-protocol",
+    "docs": "https://github.com/Vantana1995/picule-protocol/tree/main/docs"
   }
 }
