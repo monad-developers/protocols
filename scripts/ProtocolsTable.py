@@ -33,13 +33,18 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
         # Get first category or empty string if no categories
         categories = data.get('categories', [])
         if not categories:
-            raise Exception(f"missing category for {name}")
+            print(f"⚠️  {name}: missing category – skipped")
+            return []
         first_category = categories[0]
         parts = first_category.split('::')
-        if len(parts) < 2:
-            raise Exception(f"invalid category format '{first_category}' in {name}, expected 'type::subtype'")
+        if len(parts) != 2:
+            print(f"⚠️  {name}: invalid category format '{first_category}' – skipped")
+            return []
 
         type, subtype = parts[0], parts[1]
+        
+        # Join all categories for the new column
+        all_categories = ";".join(categories)
 
         # Get addresses
         addresses = data.get('addresses', {})
@@ -52,7 +57,8 @@ def parse_protocol_file(file_path: str) -> List[Dict[str, str]]:
                 'ctype': type,
                 'csubtype': subtype,
                 'contract': contract_name,
-                'address': address.lower()
+                'address': address.lower(),
+                'all_categories': all_categories
             }
             rows.append(row)
 
@@ -85,7 +91,7 @@ def write_csv(rows: List[Dict[str, str]], output_file: str) -> None:
         print("No data to write to CSV")
         return
 
-    fieldnames = ['name', 'ctype', 'csubtype', 'contract', 'address']
+    fieldnames = ['name', 'ctype', 'csubtype', 'contract', 'address', 'all_categories']
     rows = sorted(rows, key=lambda x: (x['ctype'], x['csubtype'], x['name']))
 
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
