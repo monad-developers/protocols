@@ -188,5 +188,6 @@ Generally protocols will choose one category, however more than one is permissib
   * Payments::Other
   
 ## Monad Foundation Reviewers
-1. [`tr8dr`](https://github.com/tr8dr)
+1. [`79jke`](https://github.com/79jke)
 2. [`kkqzhou`](https://github.com/kkqzhou)
+
