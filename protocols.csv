@@ -277,6 +277,7 @@ iZUMi Finance,DeFi,DEX,quoter,0x95c5f14106ab4d1dc0cfc9326225287c18c2d247
 iZUMi Finance,DeFi,DEX,quoterWithLimit,0x4d140e612e476a6ba54ef1306b2ba398a5deff09
 iZUMi Finance,DeFi,DEX,tapProxy,0xeb122de19fea9ed039e2d087113db26017f5f91a
 iZUMi Finance,DeFi,DEX,locker,0x551197e6350936976dffb66b2c3bb15ddb723250
+zkSwap Finance,DeFi,DEX,AggregatorSmart,0xcf9fb929fa29ec1c1a216717200232c5b0c3d744
 zkSwap Finance,DeFi,DEX,UniversalRouter,0x74a116b1bb7894d3cfbc4b1a12f59ea95f3fff81
 zkSwap Finance,DeFi,DEX,RouterV2,0x3be99db246c81df2bd8dc0d708e03f64e1a84917
 zkSwap Finance,DeFi,DEX,FactoryV2,0x095f464b7a6a45b4f03abb32e7c42e05f0c58e9b
