@@ -1,0 +1,17 @@
+{
+    "name": "CashmereLabs",
+    "description": "Middleware infrastructure for zero-slippage one-click native omnichain transfers. Built on Circle's USDC & Tether's USDT0. MVB VI at BinanceLabs.",
+    "live": true,
+    "categories": [
+        "Infra::Interoperability",
+        "DeFi::Cross Chain"
+    ],
+    "addresses": {
+        "CashmereCCTP": "",
+    },
+    "links": {
+        "project": "https://cashmere.exchange/",
+        "twitter": "https://x.com/CashmereLabs",
+        "docs": "https://docs.cashmere.exchange/"
+    }
+}
