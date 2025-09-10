@@ -1,0 +1,15 @@
+{
+    "name": "Monad minesweeper",
+    "description": "Monad minesweeper  Game",
+    "live": true,
+    "categories": [
+        "Gaming::Games"
+    ],
+    "addresses": {
+        "Game": "0xBD58A0Bed59C36cb270f3Da308a3b0d5bf36FfFb"
+    },
+    "links": {
+        "project": "https://minesweeper.zkslr.shop/",
+        "github":"https://github.com/JameWade/minesweeper/tree/new-aa"
+    }
+}
