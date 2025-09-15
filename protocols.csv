@@ -49,6 +49,10 @@ Opinion Labs,Consumer,Prediction Market,GnosisSafeFactory,0xa6b71e26c5e0845f74c8
 Opinion Labs,Consumer,Prediction Market,BatchAirdrop,0x9a6a6f5b54b304aef92960c631ad7d4be8d258f6,Consumer::Prediction Market
 Prediction3,Consumer,Prediction Market,PredictionFactory,0x0188b5b4d6869a706c153b89b7142dd4879b6ca1,Consumer::Prediction Market
 Dusted,Consumer,Social,default,0x18c9534dfe16a0314b66395f48549716fff9aa66,Consumer::Social
+Fantasy Top,Consumer,Social,market,0x04edb399cc24a95672bf9b880ee550de0b2d0b1e,Consumer::Social
+Fantasy Top,Consumer,Social,unknown1,0xfa4d5a9cea2822ba08d0266f121011ac527ced64,Consumer::Social
+Fantasy Top,Consumer,Social,unknown2,0xdcf3c00e9f8a2fdaaf19fe59050e80c433b509dc,Consumer::Social
+Fantasy Top,Consumer,Social,unknown3,0x89e4a70de5f2ae468b18b6b6300b249387f9adf0,Consumer::Social
 Moseiki,Consumer,Social,Handle,0x0d8c559e312ddf19e4f60a47db0877bbe30b6b30,Consumer::Social
 Moseiki,Consumer,Social,PostMint,0x4ddd439f6256e293e3814f820bbb1276dd5f4cae,Consumer::Social
 Opals,Consumer,Social,Factory,0x73d1aaa8590739c98b3567dc5872963032c99987,Consumer::Social
