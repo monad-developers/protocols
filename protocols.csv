@@ -241,6 +241,22 @@ PancakeSwap,DeFi,DEX,QuoterV2,0x74b06efa24f39c60aa7f61bd516a3eaf39613d57,DeFi::D
 PancakeSwap,DeFi,DEX,TokenValidator,0x05311098a9352cccae561780b455a99fc4eb9d30,DeFi::DEX
 PancakeSwap,DeFi,DEX,Permit2,0xc51da9473283695884ad536ffd180e618bf6186e,DeFi::DEX
 PancakeSwap,DeFi,DEX,UniversalRouter,0x94d220c58a23ae0c2ee29344b00a30d1c2d9f1bc,DeFi::DEX
+ReactorFi,DeFi,DEX,Reactor,0x02b8fcbe1d7ff6d6652c3a332b6a7b71392b6251,DeFi::DEX
+ReactorFi,DeFi,DEX,PermissionsRegistry,0x7ff2dc014305a0e0bb629b7c7ac96ba7ea5332b3,DeFi::DEX
+ReactorFi,DeFi,DEX,PairFactory,0x22595aa7f5298b49d62450da6300882fb3d98ebc,DeFi::DEX
+ReactorFi,DeFi,DEX,GaugeFactory,0x76c01f657d3de43b38925299b7cff33a31a107fe,DeFi::DEX
+ReactorFi,DeFi,DEX,VeArtProxyUpgradeable,0x753e21e1b2fe6f9567f0ec8884100bd5c7003c59,DeFi::DEX
+ReactorFi,DeFi,DEX,VotingEscrow,0xbe4e46fa5179672c0e606ee97bf02ad47e7e1910,DeFi::DEX
+ReactorFi,DeFi,DEX,Voter,0x8b72c1cebd63aea76b6c5b09217a8c8889a3f6ba,DeFi::DEX
+ReactorFi,DeFi,DEX,BribeFactory,0x30ad43c054ab83a3a553ba09b1eba6f24a6de7dc,DeFi::DEX
+ReactorFi,DeFi,DEX,RewardsDistributor,0x38fd3f88a46239d8cecb768f8e7620d861d2de13,DeFi::DEX
+ReactorFi,DeFi,DEX,MinterUpgradeable,0x3dad509f4ea243d993b47104562f91d085d4abd4,DeFi::DEX
+ReactorFi,DeFi,DEX,TradeHelper,0x10bdbe470af509ca514a88dec4911cc958052f1f,DeFi::DEX
+ReactorFi,DeFi,DEX,Router,0xdea70f42a5d04bfde45f27db7c97563814dab15c,DeFi::DEX
+ReactorFi,DeFi,DEX,PairHelper,0xf5164104183fb402d8fdec6c7bf74c1d5ded2ddd,DeFi::DEX
+ReactorFi,DeFi,DEX,RewardHelper,0x17ec3da3c87497fc85e6f59d0a81151dd357aadd,DeFi::DEX
+ReactorFi,DeFi,DEX,veNFTHelper,0x37f979b20a59f3e2702cae86c5a8608ebb81776a,DeFi::DEX
+ReactorFi,DeFi,DEX,Oracle,0xaa97c394c26c122f926feb015237c82a62a98d51,DeFi::DEX
 Standard Protocol,DeFi,DEX,MatchingEngine,0x6b5a13ca93871187330ae6d9e34cdad610aa54cd,DeFi::DEX
 Swaap,DeFi,DEX,Vault,0xd315a9c38ec871068fec378e4ce78af528c76293,DeFi::DEX
 TAYA,DeFi,DEX,factory,0xf3fd5503fb2bb5f5a7ae713e621ac5c50f191fb3,DeFi::DEX;Consumer::Prediction Market
