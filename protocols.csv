@@ -313,6 +313,9 @@ zkSwap Finance,DeFi,DEX,ZFStableSwapThreePoolInfo,0xd2d52b5f624bc7dc6ef66a86f833
 zkSwap Finance,DeFi,DEX,GreeterFactory,0x987b30cbe19f0a4461731c32bbe4a22271ec0d57,DeFi::DEX
 zkSwap Finance,DeFi,DEX,Moon,0x4aa50e8208095d9594d18e8e3008abb811125dce,DeFi::DEX
 zkSwap Finance,DeFi,DEX,ZFNFT,0x4f79d211d0536ffe453203229c6ad32ad25681e8,DeFi::DEX
+zkSwap Finance,DeFi,DEX,NFTWrapperFactory,0xde95d9b5416d676003049ca7480f78c16c067f21,DeFi::DEX
+zkSwap Finance,DeFi,DEX,LONGOFT,0x111f0d8c86c61cc73713720d7899e1b40d8297d5,DeFi::DEX
+zkSwap Finance,DeFi,DEX,ZFOFT,0x7a1a3679a5fe97d1da3683c3807a179e26f532b1,DeFi::DEX
 0x,DeFi,DEX Aggregator,unknown0,0x07f37e56bc55b7f927807171647c2eee95c78f31,DeFi::DEX Aggregator
 0x,DeFi,DEX Aggregator,unknown1,0xee6107d6722d31bb10eba7936955477f3dee4de2,DeFi::DEX Aggregator
 0x,DeFi,DEX Aggregator,allowanceHolder,0x0000000000001ff3684f28c67538d4d072c22734,DeFi::DEX Aggregator
@@ -766,3 +769,4 @@ Demask Financial,NFT,NFTFi,RouterERC1155,0xd70160709b01d7e5e3cdefb80eb7807345bb5
 Demask Financial,NFT,NFTFi,DemaskCollectionERC1155,0xb8eddd76e9f1c3fd4933781334080b3b26aac974,NFT::NFTFi
 Demask Financial,NFT,NFTFi,CreateFactoryERC1155,0x2acfd0011bfb63b4bd0c48e5fefb3d0d93fa8a1f,NFT::NFTFi
 DAU Cards,Payments,Onramp and Offramps,default,0x3214bf2e017f390f5593ea67cc816923b36996c0,Payments::Onramp and Offramps
+
