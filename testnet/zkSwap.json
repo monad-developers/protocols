@@ -24,7 +24,10 @@
         "ZFStableSwapThreePoolInfo": "0xD2d52B5F624bC7Dc6EF66a86F833cF93524f99fD",
         "GreeterFactory": "0x987B30CBe19F0a4461731C32bBe4a22271ec0D57",
         "Moon": "0x4aa50E8208095d9594d18E8e3008ABB811125dCE",
-        "ZFNFT": "0x4f79d211d0536fFe453203229C6AD32aD25681e8"
+        "ZFNFT": "0x4f79d211d0536fFe453203229C6AD32aD25681e8",
+        "NFT Wrapper Factory": "0xDE95d9b5416D676003049Ca7480F78c16c067F21",
+        "LONGOFT": "0x111f0D8c86c61cC73713720D7899E1b40D8297d5",
+        "ZFOFT": "0x7a1a3679a5fE97D1da3683c3807A179e26f532b1"
     },
     "links": {
         "project": "https://www.zkswap.finance/",
